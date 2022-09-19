@@ -1,0 +1,1224 @@
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1068-00000
+INDEKS NAZWA: ZUS54G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1069-00000
+INDEKS NAZWA: ZUS56G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1070-00000
+INDEKS NAZWA: ZUS58G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1071-00000
+INDEKS NAZWA: ZUS59G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1072-00000
+INDEKS NAZWA: ZPS610G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1073-00000
+INDEKS NAZWA: ZPS612G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1074-00000
+INDEKS NAZWA: ZPS614G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1075-00000
+INDEKS NAZWA: ZPS616G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1076-00000
+INDEKS NAZWA: ZPS618G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1077-00000
+INDEKS NAZWA: ZPS620G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1078-00000
+INDEKS NAZWA: ZPS810G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1079-00000
+INDEKS NAZWA: ZPS812G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1080-00000
+INDEKS NAZWA: ZPS814G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1081-00000
+INDEKS NAZWA: ZPS816G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1082-00000
+INDEKS NAZWA: ZPS818G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1083-00000
+INDEKS NAZWA: ZPS820G
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS05G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1084-00000
+INDEKS NAZWA: ZUS05GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1085-00000
+INDEKS NAZWA: ZUS52GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1086-00000
+INDEKS NAZWA: ZUS54GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1087-00000
+INDEKS NAZWA: ZUS56GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1088-00000
+INDEKS NAZWA: ZUS58GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1089-00000
+INDEKS NAZWA: ZUS59GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1090-00000
+INDEKS NAZWA: ZPS610GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1091-00000
+INDEKS NAZWA: ZPS612GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1092-00000
+INDEKS NAZWA: ZPS614GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1093-00000
+INDEKS NAZWA: ZPS616GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1094-00000
+INDEKS NAZWA: ZPS618GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1095-00000
+INDEKS NAZWA: ZPS620GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1096-00000
+INDEKS NAZWA: ZPS810GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1097-00000
+INDEKS NAZWA: ZPS812GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1098-00000
+INDEKS NAZWA: ZPS814GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1099-00000
+INDEKS NAZWA: ZPS816GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1100-00000
+INDEKS NAZWA: ZPS818GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
+===========================================================================
+RODZAJ INDEKSU: 50
+INDEKS: 50-0001-1101-00000
+INDEKS NAZWA: ZPS820GP
+INDEKS NOWA NAZWA: BRAK
+INDEKS NOWA NAZWA KLASY: BRAK
+---------------------------------------------------------------------------
+DLUGOSC: BRAK
+SZEROKOSC: BRAK
+WYSOKOSC: BRAK
+WAGA: BRAK
+---------------------------------------------------------------------------
+ABS 1: BRAK
+ABS 2: BRAK
+ABS 3: BRAK
+ABS 4: BRAK
+WYMIAR NA GOTOWO: BRAK
+---------------------------------------------------------------------------
+HIERARCHIA 1: 24
+HIERARCHIA 2: 43
+HIERARCHIA 3: A9
+HIERARCHIA 4: B6
+HIERARCHIA 5: 63
+---------------------------------------------------------------------------
+NAZWA RYSUNKU: BRAK
+NAZWA RODZINY: ZUS12G
+DL_FREZ_FDOLNO: BRAK
+IL_WIERCEN: BRAK
+DL_FREZ_DIA: BRAK
+DL_FREZ_PILA: BRAK
+DL_OPROSTO: BRAK
+IL_OPROSTO: BRAK
+DL_OKRZYWO: BRAK
+IL_OKRZYWO: BRAK
+---------------------------------------------------------------------------
+OPRACOWANE_PAKOWANIE_1: BRAK
